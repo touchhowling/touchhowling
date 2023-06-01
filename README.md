@@ -16,3 +16,14 @@ Welcome to my GitHub profile!
 📫 You can reach me via email at devsaransujan@gmail.com. Let's connect and build something amazing together!
 
 👀 Thanks for visiting my GitHub profile, and I look forward to connecting with you soon. Happy coding! 😄
+<div align="center">
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=touchhowling&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=touchhowling&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+</div>
+
