@@ -8,14 +8,7 @@ Welcome to my GitHub profile!
 
 💡 My repositories showcase my work in various domains, including image processing, data analysis, web development, and more. 
 
-📚 I love collaborating with fellow developers and sharing knowledge with the community. Feel free to explore my projects, leave feedback, or reach out to me for collaboration opportunities.
 
-✨ Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dev-saran-sujan/)
-
-
-📫 You can reach me via email at devsaransujan@gmail.com. Let's connect and build something amazing together!
-
-👀 Thanks for visiting my GitHub profile, and I look forward to connecting with you soon. Happy coding! 😄
 <div align="center">
 
 
