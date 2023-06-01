@@ -3,9 +3,7 @@
 Welcome to my GitHub profile! 
 
 🔭 I'm currently working on exciting projects that involve leveraging artificial intelligence and machine learning to solve real-world problems. 
-
-🌱 I'm passionate about learning new technologies and frameworks, and I constantly strive to expand my knowledge and skills in the field of computer science. 
-
+  
 💡 My repositories showcase my work in various domains, including image processing, data analysis, web development, and more. 
 
 
